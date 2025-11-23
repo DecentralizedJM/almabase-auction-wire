@@ -1,4 +1,5 @@
 import { CheckCircle2 } from "lucide-react";
+import productMockup from "@/assets/product-dashboard-mockup.png";
 
 const features = [
   "Integrated bidder registration",
@@ -14,15 +15,12 @@ export const ProductOverview = () => {
     <section className="section-container">
       <div className="grid lg:grid-cols-2 gap-16 items-center">
         <div className="order-2 lg:order-1">
-          <div className="relative aspect-[4/3] bg-gradient-to-br from-primary/5 to-accent/5 rounded-2xl p-8 border border-border">
-            <div className="space-y-4">
-              <div className="h-8 bg-primary/20 rounded w-3/4" />
-              <div className="space-y-3">
-                {[1, 2, 3, 4].map((i) => (
-                  <div key={i} className="h-20 bg-card border border-border/50 rounded-lg shadow-sm" />
-                ))}
-              </div>
-            </div>
+          <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border shadow-lg">
+            <img 
+              src={productMockup} 
+              alt="Mobile-first silent auction dashboard showing real-time bidding interface"
+              className="w-full h-full object-cover"
+            />
           </div>
         </div>
         
