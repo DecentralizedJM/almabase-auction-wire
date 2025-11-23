@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/39ee0285-b7e4-41c9-a78f-5679ec948c26
+**URL**: [https://lovable.dev/projects/39ee0285-b7e4-41c9-a78f-5679ec948c26](https://almabase-auction-wire.lovable.app/)
 
 ## How can I edit this code?
 
