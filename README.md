@@ -1,73 +1,134 @@
-# Welcome to your Lovable project
+# Silent Auctions – Landing Page Wireframe (Lovable)
 
-## Project info
+This repository contains the low-fidelity landing page wireframe created for the proposed **Almabase Silent Auctions** product. The purpose of this wireframe is to visually communicate the user experience, value propositions, and product flow derived from customer discovery conversations and secondary research on gala-style fundraising events.
 
-**URL**: [https://lovable.dev/projects/39ee0285-b7e4-41c9-a78f-5679ec948c26](https://almabase-auction-wire.lovable.app/)
+---
 
-## How can I edit this code?
+## 📌 Overview
 
-There are several ways of editing your application.
+Silent auctions at universities are still largely run through paper bid sheets and improvised workflows. The wireframe illustrates how a **unified, mobile-first, AlmaBase-native** solution can streamline the entire process for bidders, event staff, and advancement teams.
 
-**Use Lovable**
+This project focuses on structure, clarity, and messaging rather than final UI polish. All components follow Almabase’s existing design language.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/39ee0285-b7e4-41c9-a78f-5679ec948c26) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🎨 What’s Included in the Wireframe
 
-**Use your preferred IDE**
+The wireframe contains the following key sections:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### **1. Hero Section**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* Clear value-led headline
+* Subtext reflecting core problems solved
+* Primary & secondary call-to-action buttons
+* Placeholder visual representing mobile bidding
 
-Follow these steps:
+### **2. Problem Breakdown**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* Highlights operational inefficiencies in current silent auction workflows
+* Captures pain points for both bidders and event staff
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### **3. Product Overview**
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Summarizes the MVP features:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+  * Digital bidding
+  * Notifications
+  * Item browsing
+  * Integrated checkout
+  * Tax + receipting
+  * RE NXT-native sync
+
+### **4. Value Proposition Grid**
+
+* Four-card layout showing core outcomes that matter to advancement teams
+
+### **5. How It Works (3-Step Flow)**
+
+* Guests bid on mobile
+* Real-time notifications
+* Auto-checkout at close
+
+### **6. Advancement Team Benefits**
+
+* Lower staff load
+* No spreadsheets
+* Accurate donor crediting
+
+### **7. Social Proof Placeholder**
+
+* Space for logos and quotes from partner institutions
+
+### **8. Final CTA**
+
+* Simple, strong call to explore or request a demo
+
+---
+
+## 📁 File Structure
+
+```
+/assets
+   - placeholder images, icons (if any)
+/lovable-export
+   - exported HTML/CSS from Lovable (if applicable)
+README.md
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🔗 Live Wireframe Link
 
-**Use GitHub Codespaces**
+You can view the wireframe here:
+**[https://almabase-auction-wire.lovable.app](https://almabase-auction-wire.lovable.app)**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🚀 Purpose of This Wireframe
 
-This project is built with:
+* Communicates product thinking for silent auctions
+* Demonstrates understanding of bidder & staff workflows
+* Shows end-to-end positioning, messaging, and flow
+* Serves as a foundation for future hi-fi design or engineering exploration
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📄 Assignment Context
 
-Simply open [Lovable](https://lovable.dev/projects/39ee0285-b7e4-41c9-a78f-5679ec948c26) and click on Share -> Publish.
+This wireframe was created as part of a comprehensive problem-analysis and product-definition exercise including:
 
-## Can I connect a custom domain to my Lovable project?
+* Workflow mapping
+* Pain-point identification
+* Competitive comparison
+* Positioning
+* Messaging framework
+* Battlecard (optional)
 
-Yes, you can!
+The wireframe visualizes how these insights translate into an actual customer-facing page.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🛠 Tools Used
+
+* **Lovable.app** for quick low-fidelity wireframing
+* Followed **Almabase’s design language** for consistency
+* Guided by insights from customer discovery
+
+---
+
+## 🙌 Contributions
+
+This project is not intended for active development but can serve as a reference for:
+
+* Product exploration
+* PM assignments
+* Concept validation
+* Feature discussions with design or engineering
+
+---
+
+If you’d like, I can also generate:
+
+* A repo banner
+* GitHub badges
+* A short Loom-style narrative to embed
