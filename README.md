@@ -1,4 +1,4 @@
-# Silent Auctions – Landing Page Wireframe (Lovable)
+# Silent Auctions – Landing Page Wireframe 
 
 This repository contains the low-fidelity landing page wireframe created for the proposed **Almabase Silent Auctions** product. The purpose of this wireframe is to visually communicate the user experience, value propositions, and product flow derived from customer discovery conversations and secondary research on gala-style fundraising events.
 
@@ -125,10 +125,3 @@ This project is not intended for active development but can serve as a reference
 * Concept validation
 * Feature discussions with design or engineering
 
----
-
-If you’d like, I can also generate:
-
-* A repo banner
-* GitHub badges
-* A short Loom-style narrative to embed
